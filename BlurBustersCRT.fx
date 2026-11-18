@@ -1,5 +1,5 @@
 //-------------------------------------------------------------------------------------------------
-// Blur Busters Blacklight Strobe Simulator (Derived from CRT Beam Simulator v4)
+// Blur Busters Blacklight Strobe Simulator
 // ReShade edition - Blacklight / UV Fluorescence & Strobe Pass
 //-------------------------------------------------------------------------------------------------
 
